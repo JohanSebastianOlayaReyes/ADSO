@@ -1,0 +1,134 @@
+/*
+Primer CSS
+autor: sebastian olaya >>>    
+23 de mayo de 2024
+*/
+body{
+ background-image: linear-gradient(30deg,rgb(245, 245, 250),blue);
+}
+h1{
+    text-align: center;
+}
+#principal{
+    float: left;
+    width: 1200px;
+    text-align: center;
+}
+
+.filas{
+    float: left;
+    width: 1120px;
+}
+
+.columnas{
+    float: left;
+    width: 52px;
+    height: 60px;
+    margin: 2px;
+    border: solid 1px #000;
+}
+
+
+.espacio1{
+ 
+ float: left;
+ width: 925px;
+ margin: 2px;
+ border: #000;
+}
+
+.espacio2{
+ 
+    float: left;
+    width: 577px;
+    margin: 2px;
+    border: #000;
+   }
+
+.color-morado{
+     
+    background-image: linear-gradient(30deg, rgb(225, 194, 232),rgb(157, 0, 255));
+}
+
+.color-naranja{
+     
+    background-image: linear-gradient(30deg, rgb(227, 198, 143),rgb(243, 161, 61));
+}
+
+.color-naranja2{
+     
+    background-image: linear-gradient(30deg, rgb(186, 141, 79),rgb(255, 115, 0));
+}
+
+
+.color-rosa{
+     
+   background-image: linear-gradient(30deg, rgb(251, 185, 243),rgb(255, 0, 242));
+}
+.color-verde{
+     
+    background-image: linear-gradient(30deg, rgb(202, 232, 194),rgb(0, 126, 6));
+}
+.color-Averde{
+     
+    background-image: linear-gradient(30deg, rgb(190, 227, 151),rgb(191, 255, 0));
+}
+.color-Bverde{
+     
+    background-image: linear-gradient(30deg, rgb(196, 211, 198),rgb(28, 141, 105));
+}
+.color-Amorado{
+     
+    background-image: linear-gradient(30deg, rgb(225, 194, 232),rgb(157, 0, 255));
+}
+.color-Bmorado{
+     
+    background-image: linear-gradient(30deg, rgb(230, 179, 235),rgb(126, 0, 115));
+}
+.color-Cvede{
+     
+    background-image: linear-gradient(30deg, rgb(177, 217, 177),rgb(0, 255, 38));
+}
+.color-azul{
+     
+    background-image: linear-gradient(30deg, rgb(210, 232, 254),rgb(0, 242, 255));   
+}
+ div h1{
+    text-align: center;
+    margin: auto;
+   
+ }
+ div h2{
+    text-align: center;
+    margin: auto;
+   font-size: 10px;
+ }
+
+ div h3{
+    text-align: right;
+    margin: 1px;
+    margin-top: -1px;
+    font-size: 10px;
+ }
+
+ div h4{
+    text-align:left;
+    margin: -13px 0 0 0;
+    margin-top: -10px;
+    font-size: 10px;
+
+ }
+ div h5{
+    text-align: right;
+    margin: 1px;
+    margin-top: 12px;
+    font-size: 10px;
+ }
+
+ #pprincipal{
+    float: left;
+    width: 1200px;
+    margin-top: 50px;
+    margin-left: 170px;
+ }
+
